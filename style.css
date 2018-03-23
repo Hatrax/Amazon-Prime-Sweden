@@ -1,0 +1,16 @@
+
+html {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color: red;
+    color: black;
+    padding: 30px;
+}
+
+
